@@ -1,0 +1,32 @@
+[
+  {
+    "questionStatement": "How you doing?",
+    "questionNumber": 1,
+    "questionOptions": [
+      "Good",
+      "Great",
+      "Not so Good",
+      "Bad"
+    ]
+  },
+  {
+    "questionStatement": "What is your name?",
+    "questionNumber": 2,
+    "questionOptions": [
+      "Vijita",
+      "Shubhangi",
+      "Shubham",
+      "Sumit"
+    ]
+  },
+  {
+    "questionStatement": "Where are you from?",
+    "questionNumber": 3,
+    "questionOptions": [
+      "Gujrat",
+      "Bihar",
+      "Rajasthan",
+      "Jharkhand"
+    ]
+  }
+]

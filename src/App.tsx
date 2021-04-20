@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import Quiz from './Quiz';
 import './App.css';
 import {
     BrowserRouter as Router,
@@ -51,9 +51,9 @@ function Home(props: any) {
     );
 }
 
-function Quiz() {
-    return <h2>This is the List Page for Issues</h2>;
-}
+// function Quiz() {
+//     return <h2>This is the List Page for Issues</h2>;
+// }
 
 function Results() {
     return <h2>This is the Details Page for Issues</h2>;
